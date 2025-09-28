@@ -16,8 +16,9 @@ I’ve had the privilege of contributing to the **official AWS Big Data Blog**:
 - [Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK](https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk)  
 - [Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication](https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/)
 
-Written 8 articles that share valuable insights, best practices, and solutions, fostering knowledge sharing across the broader AWS community.
+Written 9 articles that share valuable insights, best practices, and solutions, fostering knowledge sharing across the broader AWS community.
 
+- [Migrating Snowflake Authentication from Password to Key Pair in AWS Glue](https://repost.aws/articles/AR0rXT4COgQ3q2XQZzHrCz7g/migrating-snowflake-authentication-from-password-to-key-pair-in-aws-glue)
 - [Implementing SSL Connections to RDS Oracle DB in AWS Glue: A Guide for DynamicFrame and DataFrame](https://repost.aws/articles/ARDXZ96YxkSvOMTiGpX-yobQ/implementing-ssl-connections-to-rds-oracle-db-in-aws-glue-a-guide-for-dynamicframe-and-dataframe)
 - [AWS Glue Job Networking: Managing Multiple Connections](https://repost.aws/articles/ARTT49mVccTzuA9bQ2UUQq2g/aws-glue-job-networking-managing-multiple-connections)
 - [Create Kafka Client Keystore certificate for connecting AWS MSK with mTLS Authentication from AWS Glue](https://repost.aws/articles/ARVX6gyED3Rj2hIIdz_aGSOQ/create-kafka-client-keystore-certificate-for-connecting-aws-msk-with-mtls-authentication-from-aws-glue)
