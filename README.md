@@ -2,8 +2,7 @@
 
 🚀 **BigData Cloud Engineer - II at Amazon Web Services (AWS) | AWS Big Data Specialist | Cloud Enthusiast**
 
-For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**.  
-My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
+For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
 
 I specialize in designing and implementing **efficient, scalable data pipelines** on AWS — enabling organizations to **translate analytical needs into actionable insights** that drive business growth.
 
