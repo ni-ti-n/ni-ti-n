@@ -10,6 +10,7 @@ I specialize in designing and implementing **efficient, scalable data pipelines*
 
 I’ve had the privilege of contributing to the **official AWS Big Data Blog**:  
 
+- [Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/)
 - [Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM](https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/)
 - [Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue](https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/)  
 - [Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK](https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk)  
