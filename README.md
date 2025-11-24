@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitin Kumar
 
-🚀 **BigData Cloud Engineer - II at Amazon Web Services (AWS) | AWS Big Data Specialist | Cloud Enthusiast**
+🚀 **BigData Cloud Engineer - II at Amazon Web Services (AWS) | BigData Specialist | AI Enthusiast**
 
 For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
 
