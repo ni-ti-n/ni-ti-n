@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Nitin Kumar
 
-🚀 **BigData Cloud Engineer - II at Amazon Web Services (AWS) | BigData Specialist | AI Enthusiast**
+🚀 **Solutions Architect - II at Amazon Web Services (AWS) | BigData Specialist | Streaming & AI Specialist**
 
 For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
 
-I specialize in designing and implementing **efficient, scalable data pipelines** on AWS — enabling organizations to **translate analytical needs into actionable insights** that drive business growth.
+I collaborate with customers to understand their data challenges and design tailored solutions, identify opportunities for new workflows and end-to-end systems in the AI space, and provide ongoing guidance, troubleshooting support, and ensure customer success throughout their cloud journey. I'm passionate about helping organizations evolve through technology adoption and extract maximum value from their cloud investments. I thrive on exploring emerging technologies and identifying "the next big thing" that can transform how businesses operate. 
+
+Whether I'm **architecting** a **complex data pipeline**, **optimizing cloud costs**, or **designing AI-powered solutions**, my focus remains on delivering practical, scalable outcomes that drive real business impact. I'm always eager to discuss cloud architecture, data engineering, AI innovations, and how AWS can accelerate your organization's digital transformation.
 
 ## ✍️ Published Blogs
 
