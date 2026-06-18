@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitin Kumar
 
-🚀 **Solutions Architect - II at Amazon Web Services (AWS) | BigData Specialist | Streaming & AI Specialist**
+🚀 **Solutions Architect - II at Amazon Web Services (AWS) | Streaming & Data AI Specialist**
 
 For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
 
