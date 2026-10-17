@@ -2,7 +2,7 @@
 
 🚀 **Solutions Architect - II at Amazon Web Services (AWS) | Streaming & Data AI Specialist**
 
-For over **13+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
+For over **14+ years**, I've leveraged my expertise in **Big Data** and the **Hadoop ecosystem** to empower clients with **data-driven solutions**. My passion for **AWS data analytics services** fuels my dedication to unlocking valuable insights from complex datasets.  
 
 I collaborate with customers to understand their data challenges and design tailored solutions, identify opportunities for new workflows and end-to-end systems in the AI space, and provide ongoing guidance, troubleshooting support, and ensure customer success throughout their cloud journey. I'm passionate about helping organizations evolve through technology adoption and extract maximum value from their cloud investments. I thrive on exploring emerging technologies and identifying "the next big thing" that can transform how businesses operate. 
 
