@@ -19,7 +19,7 @@
 
 ## 🧭 About me
 
-As an Account Solutions Architect at AWS, I'm my customers' technical partner across their whole cloud journey, whatever the problem is. I work backwards from their business goals to design architectures that are secure, resilient, cost-efficient and ready to scale.
+As a Solutions Architect at AWS, I serve as a trusted technical advisor to my customers at every stage of their cloud journey. I work backwards from business outcomes to design secure, resilient and cost-efficient architectures that scale with their growth.
 
 - 🎯 **Problem first, technology second:** I choose services based on what the customer needs, not a fixed stack
 - 🤝 **End-to-end ownership:** from discovery and architecture to launch, troubleshooting and ongoing optimization
@@ -81,14 +81,42 @@ Published on the official [AWS Big Data Blog](https://aws.amazon.com/blogs/big-d
   </tr>
 </table>
 
-| Published | Post | Services |
-| --- | --- | --- |
-| Oct 2025 | [Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming](https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/) | MSK Serverless · Iceberg · Glue Streaming |
-| Oct 2025 | [Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/) | SageMaker Catalog · EMR · Glue · Redshift |
-| Jun 2025 | [Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM](https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/) | MSK Serverless · EMR Serverless · IAM |
-| Sep 2024 | [Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue](https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/) | Glue · Delta Lake · S3 |
-| Jul 2024 | [Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK](https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk) | Glue · MSK · Open table formats |
-| Sep 2023 | [Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication](https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/) | MSK Serverless · Glue Streaming · IAM |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/"><img src="assets/blogs/msk-iceberg-schema-evolution.jpg" alt="Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/">Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming</a></b><br/>
+      <sub>Oct 2025 · MSK Serverless · Iceberg · Glue Streaming</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/"><img src="assets/blogs/sagemaker-catalog-lineage.jpg" alt="Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/">Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift</a></b><br/>
+      <sub>Oct 2025 · SageMaker Catalog · EMR · Glue · Redshift</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/"><img src="assets/blogs/msk-emr-serverless-streaming.jpg" alt="Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/">Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM</a></b><br/>
+      <sub>Jun 2025 · MSK Serverless · EMR Serverless · IAM</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/"><img src="assets/blogs/delta-adls-to-s3.jpg" alt="Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/">Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue</a></b><br/>
+      <sub>Sep 2024 · Glue · Delta Lake · S3</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk"><img src="assets/blogs/cdc-upsert-data-lakes.jpg" alt="Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk">Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK</a></b><br/>
+      <sub>Jul 2024 · Glue · MSK · Open table formats</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/"><img src="assets/blogs/msk-glue-streaming-iam.jpg" alt="Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/">Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication</a></b><br/>
+      <sub>Sep 2023 · MSK Serverless · Glue Streaming · IAM</sub></p>
+    </td>
+  </tr>
+</table>
 
 <a id="articles"></a>
 
