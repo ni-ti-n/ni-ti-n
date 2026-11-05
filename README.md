@@ -9,68 +9,90 @@
 </p>
 
 <p align="center">
+  <a href="https://ni-ti-n.github.io/nitinkumar/"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/nitinkr91/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="#blogs"><img src="https://img.shields.io/badge/AWS_Big_Data_Blog-8_posts-FF9900?style=for-the-badge" alt="AWS Big Data Blog" /></a>
-  <a href="#repost"><img src="https://img.shields.io/badge/AWS_re%3APost-10_articles-232F3E?style=for-the-badge" alt="AWS re:Post" /></a>
+  <a href="#blogs"><img src="https://img.shields.io/badge/AWS_Blog-8_posts-FF9900?style=for-the-badge" alt="AWS Blog" /></a>
+  <a href="#articles"><img src="https://img.shields.io/badge/AWS_Articles-10-232F3E?style=for-the-badge" alt="AWS Articles" /></a>
 </p>
 
 ---
 
 ## 🧭 About me
 
-I help customers turn complex data challenges into practical, scalable solutions on AWS, from real-time streaming pipelines to AI-powered workflows.
+As an Account Solutions Architect at AWS, I'm my customers' technical partner across their whole cloud journey, whatever the problem is. I work backwards from their business goals to design architectures that are secure, resilient, cost-efficient and ready to scale.
 
-- 🏗️ **14+ years** in Big Data and the Hadoop ecosystem, building data-driven solutions for customers
-- 🌊 **Focus areas:** real-time streaming, open table formats and lakehouses, data engineering for AI
-- 🤝 **How I work:** understand the customer's data problem, design a tailored end-to-end architecture, and stay with them through troubleshooting and adoption
+- 🎯 **Problem first, technology second:** I choose services based on what the customer needs, not a fixed stack
+- 🤝 **End-to-end ownership:** from discovery and architecture to launch, troubleshooting and ongoing optimization
+- 🌊 **Deep in data:** 14+ years in Big Data and the Hadoop ecosystem, specializing in real-time streaming and data for AI
 - 🔭 **Always exploring** emerging technology and the "next big thing" that changes how businesses operate
-- 💬 **Ask me about:** cloud architecture, data pipelines, cloud cost optimization, AI innovation
+- 🎤 **Sharing what I learn** through AWS blog posts, re:Post articles and talks at AWS events
 
-## 🛠️ Tech I work with
+## 🧩 How I help customers
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,py,kafka" alt="AWS, Python, Kafka" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-4E8EE9?style=flat-square" alt="Apache Iceberg" />
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square" alt="Delta Lake" />
-  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square" alt="AWS Glue" />
-  <img src="https://img.shields.io/badge/Amazon_EMR-FF9900?style=flat-square" alt="Amazon EMR" />
-  <img src="https://img.shields.io/badge/Amazon_MSK-FF9900?style=flat-square" alt="Amazon MSK" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=flat-square" alt="Amazon Redshift" />
-  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat-square" alt="Amazon SageMaker" />
-  <img src="https://img.shields.io/badge/Amazon_S3_Tables-FF9900?style=flat-square" alt="Amazon S3 Tables" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🚚 Migrate & modernize</b><br/>
+      <sub>Move workloads to AWS and re-architect them to be cloud-native.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🤖 Generative & agentic AI</b><br/>
+      <sub>Take AI ideas from proof of concept to production.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>📊 Data, analytics & streaming</b><br/>
+      <sub>Real-time pipelines, lakehouses and data foundations for AI.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>💰 Cost optimization</b><br/>
+      <sub>Get more value from every dollar spent on the cloud.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🛡️ Security & resilience</b><br/>
+      <sub>Build secure, highly available systems from day one.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🏛️ Architecture reviews</b><br/>
+      <sub>Find risks early and plan improvements that can grow with the business.</sub>
+    </td>
+  </tr>
+</table>
 
 <a id="blogs"></a>
 
-## ✍️ AWS Big Data Blog
+## ✍️ AWS Blog
 
-I write for the official [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/):
+Published on the official [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/).
 
-| Post | Services |
-| --- | --- |
-| [Query Amazon S3 Tables from Amazon EMR Trino using the Iceberg REST endpoint](https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/) | S3 Tables · EMR · Trino · Iceberg |
-| [Orchestrate end-to-end scalable ETL pipeline with Amazon SageMaker workflows](https://aws.amazon.com/blogs/big-data/orchestrate-end-to-end-scalable-etl-pipeline-with-amazon-sagemaker-workflows/) | SageMaker · ETL orchestration |
-| [Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming](https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/) | MSK Serverless · Iceberg · Glue Streaming |
-| [Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/) | SageMaker Catalog · EMR · Glue · Redshift |
-| [Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM](https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/) | MSK Serverless · EMR Serverless · IAM |
-| [Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue](https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/) | Glue · Delta Lake · S3 |
-| [Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK](https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk) | Glue · MSK · Open table formats |
-| [Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication](https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/) | MSK Serverless · Glue Streaming · IAM |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/"><img src="https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/09/01/BDB-5695-featured-image.png" alt="Query Amazon S3 Tables from Amazon EMR Trino" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/">Query Amazon S3 Tables from Amazon EMR Trino using the Iceberg REST endpoint</a></b><br/>
+      <sub>🆕 Sep 2026 · S3 Tables · EMR · Trino · Iceberg</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://aws.amazon.com/blogs/big-data/orchestrate-end-to-end-scalable-etl-pipeline-with-amazon-sagemaker-workflows/"><img src="https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/01/26/bdb-5229-image-1-1115x630.jpeg" alt="Orchestrate ETL pipelines with Amazon SageMaker workflows" width="100%" /></a>
+      <p><b><a href="https://aws.amazon.com/blogs/big-data/orchestrate-end-to-end-scalable-etl-pipeline-with-amazon-sagemaker-workflows/">Orchestrate end-to-end scalable ETL pipeline with Amazon SageMaker workflows</a></b><br/>
+      <sub>Feb 2026 · SageMaker · ETL orchestration</sub></p>
+    </td>
+  </tr>
+</table>
 
-<a id="repost"></a>
+| Published | Post | Services |
+| --- | --- | --- |
+| Oct 2025 | [Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming](https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/) | MSK Serverless · Iceberg · Glue Streaming |
+| Oct 2025 | [Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/) | SageMaker Catalog · EMR · Glue · Redshift |
+| Jun 2025 | [Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM](https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/) | MSK Serverless · EMR Serverless · IAM |
+| Sep 2024 | [Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue](https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/) | Glue · Delta Lake · S3 |
+| Jul 2024 | [Synchronize data lakes with CDC-based upsert using open table format, AWS Glue, and Amazon MSK](https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk) | Glue · MSK · Open table formats |
+| Sep 2023 | [Securely process near real-time data from Amazon MSK Serverless using AWS Glue Streaming ETL with IAM authentication](https://aws.amazon.com/blogs/big-data/securely-process-near-real-time-data-from-amazon-msk-serverless-using-an-aws-glue-streaming-etl-job-with-iam-authentication/) | MSK Serverless · Glue Streaming · IAM |
 
-## 📚 AWS re:Post
+<a id="articles"></a>
+
+## 📚 AWS Articles
 
 Ten articles sharing best practices and fixes with the wider AWS community.
 
@@ -98,7 +120,7 @@ Ten articles sharing best practices and fixes with the wider AWS community.
 
 ## 🤝 Let's connect
 
-Always happy to talk cloud architecture, data engineering, and AI. Reach out on [LinkedIn](https://www.linkedin.com/in/nitinkr91/).
+Always happy to talk cloud architecture, AI, data, or whatever problem you're solving. Reach out on [LinkedIn](https://www.linkedin.com/in/nitinkr91/) or explore my work on my [portfolio](https://ni-ti-n.github.io/nitinkumar/).
 
 ---
 
