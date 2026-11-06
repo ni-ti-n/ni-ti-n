@@ -120,7 +120,7 @@ Amazon and AWS badges, verified on [Credly](https://www.credly.com/users/nitin-k
 
 <a id="blogs"></a>
 
-## ✍️ AWS Blog
+## ✍️ AWS Blogs
 
 Published on the official [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/).
 
